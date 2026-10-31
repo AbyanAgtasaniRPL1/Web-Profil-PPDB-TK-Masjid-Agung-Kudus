@@ -1,0 +1,30 @@
+.vscode/
+config/
+proses.php
+Foto Kegiatan TK MAK/
+
+assets/images/Ekstrakulikuler/
+assets/images/galeri/
+assets/images/galeriweb/
+assets/images/guru/
+assets/images/Makan Bergizi/
+assets/images/Ngaji Jum'at/
+assets/images/PHBI/
+assets/images/Puncak Tema/
+assets/images/Sholat/
+assets/images/tenagapendidik/
+assets/images/Upacara/
+assets/images/pilihan/*
+!assets/images/pilihan/logo.png
+!assets/images/pilihan/logotkmasjidagung1.png
+
+assets/images/*.jpg
+assets/images/*.jpeg
+assets/images/60x60.png
+assets/images/banner-bg.png
+assets/images/fun-facts-bg.png
+assets/images/fun-facts-bg1.png
+assets/images/kepsek*
+assets/images/reounded-kepsek.png
+assets/images/work-process-bg.png
+assets/images/work-process-bg1.png
